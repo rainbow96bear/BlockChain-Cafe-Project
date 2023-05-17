@@ -1,0 +1,9 @@
+[submodule "Cafe_front"]
+	path = Cafe_front
+	url = https://github.com/rainbow96bear/Cafe_front.git
+[submodule "Cafe_back"]
+	path = Cafe_back
+	url = https://github.com/rainbow96bear/Cafe_back.git
+[submodule "Cafe_contract"]
+	path = Cafe_contract
+	url = https://github.com/rainbow96bear/Cafe_contract.git
