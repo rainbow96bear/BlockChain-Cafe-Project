@@ -12,6 +12,7 @@
 - node.js
 - axios
 - mysql
+- typescript
 
 ### BlockChain
 
@@ -36,3 +37,8 @@
 - 추후 카페에 그림을 전시할 수 있게 하여 커피를 마시고 쌓인 토큰으로 그림 등 굿즈를 구매할 수 있도록 계획
 - 그림 혹은 굿즈에 대한 진품 검증을 NFT를 통하여 확인하는 것이 목표
 - 상품을 구매 시 사용된 토큰은 burn하여 발행되는 토큰의 수량 조절
+
+## 문서 관리
+
+- API 문서 : https://docs.google.com/spreadsheets/d/19uNlLWaVoQh7tM9x1vZ7sXNxYUw955Z2xMQIDTmGWmI/edit#gid=0
+- 이슈관리 : https://docs.google.com/spreadsheets/d/1P7wdsuiYhzYcTi1m4eLcMyXnUv2On6Fck2uAlKXdOVA/edit
