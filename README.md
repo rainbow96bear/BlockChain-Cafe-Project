@@ -6,6 +6,8 @@
 
 - react
 - typescript
+- redux toolkit
+- web3
 
 ### Back-End
 
